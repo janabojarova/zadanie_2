@@ -1,0 +1,13 @@
+/Users/janabojarova/Projects/AgeCheck/obj/Debug/netcoreapp3.1/AgeCheck.csproj.AssemblyReference.cache
+/Users/janabojarova/Projects/AgeCheck/obj/Debug/netcoreapp3.1/AgeCheck.GeneratedMSBuildEditorConfig.editorconfig
+/Users/janabojarova/Projects/AgeCheck/obj/Debug/netcoreapp3.1/AgeCheck.AssemblyInfoInputs.cache
+/Users/janabojarova/Projects/AgeCheck/obj/Debug/netcoreapp3.1/AgeCheck.AssemblyInfo.cs
+/Users/janabojarova/Projects/AgeCheck/obj/Debug/netcoreapp3.1/AgeCheck.csproj.CoreCompileInputs.cache
+/Users/janabojarova/Projects/AgeCheck/bin/Debug/netcoreapp3.1/AgeCheck.deps.json
+/Users/janabojarova/Projects/AgeCheck/bin/Debug/netcoreapp3.1/AgeCheck.runtimeconfig.json
+/Users/janabojarova/Projects/AgeCheck/bin/Debug/netcoreapp3.1/AgeCheck.runtimeconfig.dev.json
+/Users/janabojarova/Projects/AgeCheck/bin/Debug/netcoreapp3.1/AgeCheck.dll
+/Users/janabojarova/Projects/AgeCheck/bin/Debug/netcoreapp3.1/AgeCheck.pdb
+/Users/janabojarova/Projects/AgeCheck/obj/Debug/netcoreapp3.1/AgeCheck.dll
+/Users/janabojarova/Projects/AgeCheck/obj/Debug/netcoreapp3.1/AgeCheck.pdb
+/Users/janabojarova/Projects/AgeCheck/obj/Debug/netcoreapp3.1/AgeCheck.genruntimeconfig.cache
